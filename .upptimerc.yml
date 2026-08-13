@@ -1,1 +1,30 @@
-[Upptime-Einrichtung](/Users/sturm/Desktop/tecis/9. Webseite/KMU-Cottbus-Projekt/monitoring/upptime/README.md)
+owner: kmu-cottbus
+repo: kmu-cottbus-status
+user-agent: KMU-Cottbus-Statusmonitor
+
+sites:
+  - name: Startseite
+    url: https://www.kmu-cottbus.de/
+  - name: Kontakt
+    url: https://www.kmu-cottbus.de/kontakt.html
+  - name: Im Schadenfall
+    url: https://www.kmu-cottbus.de/schadenfall.html
+  - name: Betriebshaftpflicht-Schadenmeldung
+    url: https://www.kmu-cottbus.de/schadenmeldung-betriebshaftpflicht.html
+  - name: XML-Sitemap
+    url: https://www.kmu-cottbus.de/sitemap.xml
+
+status-website:
+  baseUrl: /kmu-cottbus-status
+  logoUrl: https://www.kmu-cottbus.de/assets/icons/icon-192.png
+  name: KMU-Cottbus Status
+  introTitle: "Verfügbarkeit unserer Website"
+  introMessage: "Automatisch ermittelter technischer Status der öffentlichen KMU-Cottbus-Seiten."
+  navbar:
+    - title: Website
+      href: https://www.kmu-cottbus.de/
+    - title: Kontakt
+      href: https://www.kmu-cottbus.de/kontakt.html
+
+i18n:
+  footer: "Technischer Status von KMU-Cottbus & Region"
