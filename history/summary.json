@@ -4,10 +4,10 @@
     "url": "https://www.kmu-cottbus.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.kmu-cottbus.de.ico",
     "slug": "startseite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 747,
@@ -15,17 +15,19 @@
     "timeWeek": 767,
     "timeMonth": 756,
     "timeYear": 747,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-26": 1
+    }
   },
   {
     "name": "Kontakt",
     "url": "https://www.kmu-cottbus.de/kontakt.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.kmu-cottbus.de.ico",
     "slug": "kontakt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 530,
@@ -33,16 +35,18 @@
     "timeWeek": 555,
     "timeMonth": 544,
     "timeYear": 530,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-26": 1
+    }
   },
   {
     "name": "Im Schadenfall",
     "url": "https://www.kmu-cottbus.de/schadenfall.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.kmu-cottbus.de.ico",
     "slug": "im-schadenfall",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 578,
     "timeMonth": 567,
     "timeYear": 558,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-26": 0
+    }
   },
   {
     "name": "Betriebshaftpflicht-Schadenmeldung",
