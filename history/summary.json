@@ -4,19 +4,19 @@
     "url": "https://www.kmu-cottbus.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.kmu-cottbus.de.ico",
     "slug": "startseite",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 747,
-    "timeDay": 935,
-    "timeWeek": 767,
-    "timeMonth": 756,
-    "timeYear": 747,
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "60.91%",
+    "uptimeWeek": "94.42%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "99.63%",
+    "time": 746,
+    "timeDay": 792,
+    "timeWeek": 752,
+    "timeMonth": 752,
+    "timeYear": 746,
     "dailyMinutesDown": {
-      "2026-11-26": 1
+      "2026-11-26": 563
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.kmu-cottbus.de/kontakt.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.kmu-cottbus.de.ico",
     "slug": "kontakt",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "60.92%",
+    "uptimeWeek": "94.42%",
+    "uptimeMonth": "98.72%",
+    "uptimeYear": "99.63%",
     "time": 530,
-    "timeDay": 635,
-    "timeWeek": 555,
-    "timeMonth": 544,
+    "timeDay": 545,
+    "timeWeek": 543,
+    "timeMonth": 541,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2026-11-26": 1
+      "2026-11-26": 563
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://www.kmu-cottbus.de/schadenfall.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.kmu-cottbus.de.ico",
     "slug": "im-schadenfall",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 558,
-    "timeDay": 667,
-    "timeWeek": 578,
-    "timeMonth": 567,
-    "timeYear": 558,
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "60.94%",
+    "uptimeWeek": "94.42%",
+    "uptimeMonth": "98.72%",
+    "uptimeYear": "99.63%",
+    "time": 557,
+    "timeDay": 573,
+    "timeWeek": 566,
+    "timeMonth": 564,
+    "timeYear": 557,
     "dailyMinutesDown": {
-      "2026-11-26": 0
+      "2026-11-26": 563
     }
   },
   {
